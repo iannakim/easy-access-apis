@@ -1,4 +1,4 @@
-# Entry Level APIs
+# Easy Access APIs
 ## Each of these APIs follows RESTful conventions, responds with JSON, and will not require Auth.
 
 * [Ticketmaster API](https://developer.ticketmaster.com/products-and-docs/apis/getting-started/)
